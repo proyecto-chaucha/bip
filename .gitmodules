@@ -1,3 +1,6 @@
 [submodule "mfterm"]
 	path = mfterm
 	url = https://github.com/4ZM/mfterm
+[submodule "mfdread"]
+	path = mfdread
+	url = https://github.com/zhovner/mfdread

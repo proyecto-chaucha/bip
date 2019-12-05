@@ -1,0 +1,3 @@
+[submodule "mfterm"]
+	path = mfterm
+	url = https://github.com/4ZM/mfterm
